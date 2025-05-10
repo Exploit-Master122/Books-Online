@@ -1,2 +1,2 @@
 # Books-Online
-A repository full of books and their links...
+Just download the books.html file as raw and start reading. =-|
